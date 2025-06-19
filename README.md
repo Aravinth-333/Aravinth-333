@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN stack web devolpment,Data Analytics,Artificial Intelligence
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on Web devolpment giants to improve my career in that field .
-- 📫 How to reach me  this is my personal mail id:aravinthsubbaiah3@gmai.com 
+- 📫 How to reach me  this is my personal mail id:aravinth.engineering@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: computer understands 0's and 1's where human can't understand 😄
 
